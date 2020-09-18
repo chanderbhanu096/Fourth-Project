@@ -1,5 +1,5 @@
-<include a CircleCI status badge, here>
-
+<https://circleci.com/gh/chanderbhanu096/Fourth-Project.svg?style=svg>
+https://circleci.com/gh/chanderbhanu096/Fourth-Project.svg?style=svg
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
